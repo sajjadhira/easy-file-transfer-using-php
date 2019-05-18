@@ -94,7 +94,7 @@ if(isset($_POST['source'])&&isset($_POST['destination'])){
             <br/>
             <h3><a target="_blank" href="https://phpans.com/easy-server-file-transfer-using-php/">Read <b>Easy Server File Transfer</b> Tutorial</a></h3></div>
     </div>
-    <div class="footer text-center">&copy; 2015-<?php echo date('Y'); ?> <a target="_blank" href="https//phpans.com">phpans.com</a></div>
+    <div class="footer text-center">&copy; 2015-<?php echo date('Y'); ?> <a target="_blank" href="https://phpans.com">phpans.com</a></div>
 </body>
 
 </html>
